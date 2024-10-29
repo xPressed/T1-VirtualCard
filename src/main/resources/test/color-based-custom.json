@@ -1,0 +1,33 @@
+{
+  "type": "COLOR_BASED",
+  "id": 1,
+  "userId": 1,
+  "privilege": "CARD_PRIVILEGE_VIP",
+  "status": "CARD_STATUS_WORKING",
+  "idText": {
+    "pxSize": 200,
+    "positionX": 500,
+    "positionY": -500,
+    "bold": true
+  },
+  "usernameText": {
+    "pxSize": 300,
+    "positionX": 600,
+    "positionY": 600,
+    "bold": false
+  },
+  "privilegeText": {
+    "pxSize": 300,
+    "positionX": 300,
+    "positionY": 800,
+    "bold": true
+  },
+  "roleText": {
+    "pxSize": 250,
+    "positionX": -400,
+    "positionY": -400,
+    "bold": true
+  },
+  "textColor": "ORANGE",
+  "backgroundColor": "BLACK"
+}

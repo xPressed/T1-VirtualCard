@@ -1,0 +1,33 @@
+{
+  "type": "IMAGE_BASED",
+  "id": 2,
+  "userId": 1,
+  "privilege": "CARD_PRIVILEGE_EXTENDED",
+  "status": "CARD_STATUS_BLOCKED",
+  "idText": {
+    "pxSize": 21,
+    "positionX": 52,
+    "positionY": -53,
+    "bold": false
+  },
+  "usernameText": {
+    "pxSize": 34,
+    "positionX": 65,
+    "positionY": 66,
+    "bold": true
+  },
+  "privilegeText": {
+    "pxSize": 37,
+    "positionX": 38,
+    "positionY": 89,
+    "bold": false
+  },
+  "roleText": {
+    "pxSize": 25,
+    "positionX": -40,
+    "positionY": -40,
+    "bold": false
+  },
+  "textColor": "BLACK",
+  "imageURL": null
+}
